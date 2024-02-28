@@ -1,2 +1,3 @@
 # numpy-neural-network
-Creating a neural network using only NumPy
+
+Wanting to master the concepts of deep learning, in this repository, I demonstrate how to create a neural network from scratch
