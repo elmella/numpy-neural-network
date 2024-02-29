@@ -1,6 +1,6 @@
 # NumPy Neural Network vs. XGBoost Classification
 
-This project showcases the implementation of a neural network from scratch using NumPy for digit classification on the MNIST dataset and compares its performance with the XGBoost classifier. The neural network demonstrates core deep learning concepts through practical application, including forward and backward propagation.
+This project showcases the implementation of a neural network from scratch using NumPy for digit classification on the MNIST dataset and compares its performance with the XGBoost classifier. Wanting to learn more about deep learning, I decided to do all of the forward and backward propagation as matrix operations.
 
 ## Project Overview
 
